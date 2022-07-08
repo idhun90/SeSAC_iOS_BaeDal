@@ -13,6 +13,7 @@
 		14CE477C2873C17A00C84DB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14CE477A2873C17A00C84DB6 /* Main.storyboard */; };
 		14CE477E2873C17B00C84DB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14CE477D2873C17B00C84DB6 /* Assets.xcassets */; };
 		14CE47812873C17B00C84DB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14CE477F2873C17B00C84DB6 /* LaunchScreen.storyboard */; };
+		14F7F2162877B5DE00D501A7 /* GithubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F7F2152877B5DE00D501A7 /* GithubViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		14CE477D2873C17B00C84DB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14CE47802873C17B00C84DB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14CE47822873C17B00C84DB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14F7F2152877B5DE00D501A7 /* GithubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				14CE47742873C17A00C84DB6 /* AppDelegate.swift */,
 				14CE47762873C17A00C84DB6 /* SceneDelegate.swift */,
 				14CE47782873C17A00C84DB6 /* ViewController.swift */,
+				14F7F2152877B5DE00D501A7 /* GithubViewController.swift */,
 				14CE477A2873C17A00C84DB6 /* Main.storyboard */,
 				14CE477D2873C17B00C84DB6 /* Assets.xcassets */,
 				14CE477F2873C17B00C84DB6 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				14CE47792873C17A00C84DB6 /* ViewController.swift in Sources */,
 				14CE47752873C17A00C84DB6 /* AppDelegate.swift in Sources */,
 				14CE47772873C17A00C84DB6 /* SceneDelegate.swift in Sources */,
+				14F7F2162877B5DE00D501A7 /* GithubViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
